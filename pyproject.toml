@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Корень репозитория в sys.path: тесты импортируют пакет app/ без установки.
+pythonpath = ["."]
+testpaths = ["tests"]
