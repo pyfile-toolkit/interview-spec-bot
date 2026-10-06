@@ -4,3 +4,4 @@ fpdf2
 openpyxl
 pytest
 httpx
+python-telegram-bot>=21,<22
