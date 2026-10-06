@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+fpdf2
+openpyxl
+pytest
+httpx
